@@ -4,7 +4,7 @@ Hi there!![](https://user-images.githubusercontent.com/18350557/176309783-078594
 Full-Stack Developer
 --------------------
 
-I'm a 3rd-year Software Development student at Seneca Polytechnic with a passion for full-stack web development. From Python to React Native, I love building robust and scalable applications.
+I'm a 4th-year Software Development student at Seneca Polytechnic with a passion for full-stack web development. From Python to React Native, I love building robust and scalable applications.
 
 🛠️ I'm well-versed in DevOps practices, utilizing CI/CD pipelines and Docker for streamlined deployment on AWS. Familiar with Agile/Scrum methodologies, I've integrated various third-party APIs to enhance application functionality.
 
