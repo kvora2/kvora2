@@ -12,8 +12,8 @@ I'm a 4th-year Software Development student at Seneca Polytechnic with a passion
 
 * 🌍  I'm based in Toronto, ON
 * ✉️  You can contact me at [kelvinvora21@gmail.com](mailto:kelvinvora21@gmail.com)
-* 🚀  I'm currently working on [Workout Web App](http://workout-app-deployment.vercel.app/)
-* ⚡  I enjoy deciphering puzzle of life 🌟 and "merging" ideas 💡 – basically, a software developer by day 👨‍💻, problem-solver by nature 😁!
+* 🚀  I'm currently working on [EcoEats](https://hackathon-nine-tawny.vercel.app)
+* ⚡  I enjoy deciphering puzzle of life 🌟 and "merging" ideas 💡
 
 ### Skills
 
