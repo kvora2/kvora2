@@ -4,11 +4,11 @@ Hi there!![](https://user-images.githubusercontent.com/18350557/176309783-078594
 Full-Stack Developer
 --------------------
 
-I'm a 4th-year Software Development student at Seneca Polytechnic with a passion for full-stack web development. I love building applications that transform complex ideas into simple, elegant solutions, balancing creativity with seamless functionality.
+I'm a Software Developer Graduated from Seneca Polytechnic with a passion + skill set for full-stack web/systems/AI Development. I love building applications that transform complex ideas into simple, elegant solutions, balancing creativity with seamless functionality or basically anything that makes an impact.
 
 🛠️ I'm well-versed in DevOps practices, utilizing CI/CD pipelines and Docker for streamlined deployment on AWS. Familiar with Agile/Scrum methodologies, I've integrated various third-party APIs to enhance application functionality.
 
-🚀 Explore my repositories to see my latest projects and technical explorations. Let's connect and collaborate 🙋‍♂️!
+🚀 Explore my repositories to see my work. Let's connect and collaborate!
 
 * 🌍  I'm based in Toronto, ON
 * ✉️  You can contact me at [kelvinvora21@gmail.com](mailto:kelvinvora21@gmail.com)
